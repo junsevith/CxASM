@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/CxASM.dir/main.c.o CMakeFiles/CxASM.dir/fn1.asm.o -o CxASM 
